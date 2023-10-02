@@ -1,0 +1,14 @@
+1. installation
+2. create project
+3. modules & components
+4. create component
+5. interpolation - javascript method, calculation, call method, String concat
+6. property binding - same as interpolation for string, disable example
+7. event binding - click, set property on event click
+8. template reference variable - pass data as reference
+9. two way binding - username & password, ngmodel is a FormModules
+10. angular forms - install bootstrap, an enrollment form, div from-group, input form-control
+11. form binding with ngForm, template reference variable(#.value) and ngModel, use name
+12. generate model and two way binding
+13. submit form with ngSubmit validation check form.invalid to disable button
+14. backend server - docker run -d -p 27017:27017 --name example-mongo mongo:latest
